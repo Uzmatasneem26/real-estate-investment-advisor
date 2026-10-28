@@ -1,0 +1,6 @@
+{
+  "mae_lakhs": 122.32688819785915,
+  "rmse_lakhs": 141.21941985748438,
+  "r2": -0.0003721504402638409,
+  "target_note": "Model predicts current listed price in lakhs. The five-year forecast is scenario-based because no observed future-price target exists."
+}

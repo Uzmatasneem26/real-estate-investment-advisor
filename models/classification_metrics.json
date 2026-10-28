@@ -1,0 +1,6 @@
+{
+  "accuracy": 0.7254,
+  "f1": 0.6805639570052581,
+  "roc_auc": 0.8909397863981837,
+  "target_note": "Proxy label created from relative city price, transport access, amenities, and property age. Not actual investment returns."
+}

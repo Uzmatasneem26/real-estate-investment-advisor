@@ -1,0 +1,53 @@
+{
+  "feature_columns": [
+    "State",
+    "City",
+    "Locality",
+    "Property_Type",
+    "BHK",
+    "Size_in_SqFt",
+    "Year_Built",
+    "Furnished_Status",
+    "Floor_No",
+    "Total_Floors",
+    "Age_of_Property",
+    "Nearby_Schools",
+    "Nearby_Hospitals",
+    "Public_Transport_Accessibility",
+    "Parking_Space",
+    "Security",
+    "Amenities",
+    "Facing",
+    "Owner_Type",
+    "Availability_Status",
+    "Amenities_Count"
+  ],
+  "categorical_columns": [
+    "State",
+    "City",
+    "Locality",
+    "Property_Type",
+    "Furnished_Status",
+    "Public_Transport_Accessibility",
+    "Parking_Space",
+    "Security",
+    "Amenities",
+    "Facing",
+    "Owner_Type",
+    "Availability_Status"
+  ],
+  "numerical_columns": [
+    "BHK",
+    "Size_in_SqFt",
+    "Year_Built",
+    "Floor_No",
+    "Total_Floors",
+    "Age_of_Property",
+    "Nearby_Schools",
+    "Nearby_Hospitals",
+    "Amenities_Count"
+  ],
+  "classification_target": "Good_Investment_Proxy",
+  "regression_target": "Price_in_Lakhs",
+  "dataset_rows": 250000
+}

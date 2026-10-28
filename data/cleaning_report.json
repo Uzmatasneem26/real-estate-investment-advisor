@@ -1,0 +1,13 @@
+{
+  "original_rows": 250000,
+  "cleaned_rows": 250000,
+  "rows_removed": 0,
+  "original_duplicate_rows": 0,
+  "missing_cells_before": 0,
+  "missing_cells_after": 0,
+  "notes": [
+    "Price_per_SqFt was recalculated as Price_in_Lakhs * 100000 / Size_in_SqFt.",
+    "Age_of_Property was recalculated as 2026 - Year_Built.",
+    "The supplied data does not contain observed future prices or actual investment outcomes."
+  ]
+}
